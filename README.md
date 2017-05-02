@@ -1,5 +1,7 @@
 # em-basicauth
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/em-basicauth.svg)](https://greenkeeper.io/)
+
 basic authentication for ee webservices
 
 ## installation
